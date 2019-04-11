@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Class3</string>
+    <string name="userNameHint">Please enter your name</string>
+    <string name="saveName">Save</string>
+    <string name="next">NEXT PAGE</string>
+    <string name="show">show</string>
+    <string name="play">play</string>
+    <string name="stop">stop</string>
+
+</resources>
